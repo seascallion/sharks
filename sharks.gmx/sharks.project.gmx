@@ -14,6 +14,9 @@
   <paths name="paths">
     <path>paths\path0</path>
   </paths>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\object1</object>
